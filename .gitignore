@@ -1,6 +1,8 @@
 # IDE
 .idea
+.vscode
 
 # repo
 node_modules
+html
 
